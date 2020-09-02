@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SSF</string>
+    <string name="note">Note: Please keep the Bluetooth switched on to assure your safety.</string>
+    <string name="scan">scan</string>
+</resources>
